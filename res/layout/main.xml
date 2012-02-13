@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+  Android:id="@+id/widget27"
+  Android:layout_width="fill_parent"
+  Android:layout_height="fill_parent"
+  xmlns:Android="http://schemas.android.com/apk/res/android"
+  >
+  <TextView
+    Android:id="@+id/myTextView"
+    Android:layout_width="fill_parent"
+    Android:layout_height="wrap_content"
+    Android:layout_x="80dip"
+    Android:text=""
+    />
+  <ImageView
+    Android:id="@+id/myImageView1"
+    Android:layout_width="20dp"
+    Android:layout_height="20dp"
+  />
+  <ImageView
+    Android:id="@+id/myImageView2"
+    Android:layout_width="20dp"
+    Android:layout_height="20dp"
+  />
+  <ImageView
+    Android:id="@+id/myImageView3"
+    Android:layout_width="20dp"
+    Android:layout_height="20dp"
+  />
+  <ImageView
+    Android:id="@+id/myImageView4"
+    Android:layout_width="20dp"
+    Android:layout_height="20dp"
+  />
+</AbsoluteLayout>
