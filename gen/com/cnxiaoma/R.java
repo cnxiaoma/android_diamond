@@ -18,11 +18,39 @@ public final class R {
         public static final int dot2=0x7f020004;
     }
     public static final class id {
-        public static final int myImageView1=0x7f050002;
-        public static final int myImageView2=0x7f050003;
-        public static final int myImageView3=0x7f050004;
-        public static final int myImageView4=0x7f050005;
-        public static final int myTextView=0x7f050001;
+        public static final int myImageView1=0x7f050001;
+        public static final int myImageView10=0x7f05000a;
+        public static final int myImageView11=0x7f05000b;
+        public static final int myImageView12=0x7f05000c;
+        public static final int myImageView13=0x7f05000d;
+        public static final int myImageView14=0x7f05000e;
+        public static final int myImageView15=0x7f05000f;
+        public static final int myImageView16=0x7f050010;
+        public static final int myImageView17=0x7f050011;
+        public static final int myImageView18=0x7f050012;
+        public static final int myImageView19=0x7f050013;
+        public static final int myImageView2=0x7f050002;
+        public static final int myImageView20=0x7f050014;
+        public static final int myImageView21=0x7f050015;
+        public static final int myImageView22=0x7f050016;
+        public static final int myImageView23=0x7f050017;
+        public static final int myImageView24=0x7f050018;
+        public static final int myImageView25=0x7f050019;
+        public static final int myImageView26=0x7f05001a;
+        public static final int myImageView27=0x7f05001b;
+        public static final int myImageView28=0x7f05001c;
+        public static final int myImageView29=0x7f05001d;
+        public static final int myImageView3=0x7f050003;
+        public static final int myImageView30=0x7f05001e;
+        public static final int myImageView31=0x7f05001f;
+        public static final int myImageView32=0x7f050020;
+        public static final int myImageView33=0x7f050021;
+        public static final int myImageView4=0x7f050004;
+        public static final int myImageView5=0x7f050005;
+        public static final int myImageView6=0x7f050006;
+        public static final int myImageView7=0x7f050007;
+        public static final int myImageView8=0x7f050008;
+        public static final int myImageView9=0x7f050009;
         public static final int widget27=0x7f050000;
     }
     public static final class layout {
